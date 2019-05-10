@@ -1,0 +1,30 @@
+{
+  "name": "mean-stack-angular-2",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000M\u0000E\u0000A\u0000N\u0000-\u0000S\u0000t\u0000a\u0000c\u0000k\u0000-\u0000A\u0000n\u0000g\u0000u\u0000l\u0000a\u0000r\u0000-\u00002\u0000-\u0000T\u0000u\u0000t\u0000o\u0000r\u0000i\u0000a\u0000l\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ariel041596/MEAN-Stack-Angular-2-Tutorial.git"
+  },
+  "keywords": [
+    "Mean",
+    "Stack",
+    "Angular",
+    "2",
+    "Application"
+  ],
+  "author": "Ariel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ariel041596/MEAN-Stack-Angular-2-Tutorial/issues"
+  },
+  "homepage": "https://github.com/ariel041596/MEAN-Stack-Angular-2-Tutorial#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "mongoose": "^5.5.7"
+  }
+}
